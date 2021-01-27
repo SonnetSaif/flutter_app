@@ -1,6 +1,7 @@
 # flutter_app
 
-A new Flutter application.
+I started learning learning Flutter through app development.
+All the learning will be implemented in this app.
 
 ## Getting Started
 
